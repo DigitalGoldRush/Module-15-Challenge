@@ -1,28 +1,21 @@
 # Module-15-Challenge
 
-## Create a trading bot with machine learning algorithms that can adapt to new data
+## Create an Amazon Lex bot that will recommend an investment portfolio for a retirement plan
 
-- ###  Implement an algorithmic trading strategy using ML to automate the trading process
+- ###  Configure the initial robot advisor
 
-- ### Adjust the input parameters to optimize the algorithm
+- ### Build & test the robot advisor
 
-- ### Optimize results by implementing different ML classifiers
+- ### Enhance the advisor with an Amazon Lambda Function
 
 ---
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
 
-## Summary Evaluation
+
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png)
 
-### The actual returns mimic the cumulative returns of the two best performing strategies (ADA and SVM), bud did not reach the same peak
-
-### The best strategy is the ADA (Ada Boost) Strategy because it has the highest cumulative returns
-
-### The least effective strategy is the DT (Decision Tree) Strategy because it has the lowest cumulative returns
-
-### A Sharp analysis is recommended to consider if the risk of the strategy is worth the reward
 
 ---
 
