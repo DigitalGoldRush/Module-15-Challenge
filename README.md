@@ -25,12 +25,14 @@
 ---
 
 ## Video Demos
+
 - ### 1st Robo dialog
+
 [![](https://github.com/DigitalGoldRush/Module-15-Challenge/blob/985969b0f476218d7b0d67ab715d64e2b708b761/Resources/1st%20Robo%20dialog.gif)
 
 - ### 2nd Robo dialog
 [![](
-    
+
 ---
 ## Contributors
 
