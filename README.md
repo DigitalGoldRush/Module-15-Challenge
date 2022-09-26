@@ -29,9 +29,8 @@
 - ### 1st Robo dialog
 
 [![](https://github.com/DigitalGoldRush/Module-15-Challenge/blob/985969b0f476218d7b0d67ab715d64e2b708b761/Resources/1st%20Robo%20dialog.gif)
-
-- ### 2nd Robo dialog
-[![](
+- ### 2nd Robo dialog with Lambda modification
+[![](https://github.com/DigitalGoldRush/Module-15-Challenge/blob/main/Resources/Roboadvisor%20with%20Lambda%20update.gif)
 
 ---
 ## Contributors
