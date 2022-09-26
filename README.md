@@ -22,12 +22,16 @@
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")](https://aws.amazon.com/)
 
-## Gifs
+---
 
+## Video Demos
 - ### 1st Robo dialog
+[![](https://github.com/DigitalGoldRush/Module-15-Challenge/blob/985969b0f476218d7b0d67ab715d64e2b708b761/Resources/1st%20Robo%20dialog.gif)
 
-![](https://github.com/DigitalGoldRush/Module-15-Challenge/blob/985969b0f476218d7b0d67ab715d64e2b708b761/Resources/1st%20Robo%20dialog.gif)
-
+- ### 2nd Robo dialog
+[![](
+    
+---
 ## Contributors
 
 [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
